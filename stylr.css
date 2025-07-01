@@ -813,6 +813,7 @@ transition: opacity 0.3s ease;
     rgb(97, 97, 97) 50%,
    transparent 99%
   ); */
+    color: #00B39F;
   
 }
 .cardButtons{
